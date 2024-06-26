@@ -2,12 +2,12 @@
 <h1 align="center">
   <a href="#">
     <span class="typewriter">
-      I'm subhi_lesh ps
+      I'M S U B H I L E S H  P S
     </span>
   </a>
 </h1>
 
-<h3 align="center">software developer from India</h3>
+<h3 align="center"> Software Developer From India </h3>
 
 
 
