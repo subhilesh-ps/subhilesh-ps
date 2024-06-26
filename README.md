@@ -1,4 +1,3 @@
-![Header](https://your-header-image-url.com/header.png)
 
 <h1 align="center">
   <a href="#">
